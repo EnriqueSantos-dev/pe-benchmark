@@ -1,0 +1,65 @@
+1:
+Programa: python3 python/sort/main.py
+Tempo de execução: 0:00.01
+Memória Usada: 8576
+Uso da CPU: 90%
+
+2:
+Programa: python3 python/sort/main.py
+Tempo de execução: 0:00.01
+Memória Usada: 8448
+Uso da CPU: 100%
+
+3:
+Programa: python3 python/sort/main.py
+Tempo de execução: 0:00.01
+Memória Usada: 8576
+Uso da CPU: 100%
+
+4:
+Programa: python3 python/sort/main.py
+Tempo de execução: 0:00.01
+Memória Usada: 8320
+Uso da CPU: 90%
+
+5:
+Programa: python3 python/sort/main.py
+Tempo de execução: 0:00.01
+Memória Usada: 8576
+Uso da CPU: 100%
+
+6:
+Programa: python3 python/sort/main.py
+Tempo de execução: 0:00.01
+Memória Usada: 8576
+Uso da CPU: 100%
+
+7:
+Programa: python3 python/sort/main.py
+Tempo de execução: 0:00.01
+Memória Usada: 8576
+Uso da CPU: 90%
+
+8:
+Programa: python3 python/sort/main.py
+Tempo de execução: 0:00.01
+Memória Usada: 8576
+Uso da CPU: 90%
+
+9:
+Programa: python3 python/sort/main.py
+Tempo de execução: 0:00.01
+Memória Usada: 8576
+Uso da CPU: 90%
+
+10:
+Programa: python3 python/sort/main.py
+Tempo de execução: 0:00.01
+Memória Usada: 8448
+Uso da CPU: 100%
+
+
+Médias:
+Tempo de Execução Médio: 0.01 segundos (10 milissegundos)
+Memória Ram Média Usada: 8528 kilobytes (aproximadamente 8.33 megabytes)
+Uso de CPU Médio: 94.1%

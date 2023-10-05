@@ -1,0 +1,64 @@
+1:
+Programa: go run go/fatorial/main.go
+Tempo de execução: 0:00.08
+Memória Usada: 43520
+Uso da CPU: 238%
+
+2:
+Programa: go run go/fatorial/main.go
+Tempo de execução: 0:00.09
+Memória Usada: 43904
+Uso da CPU: 203%
+
+3:
+Programa: go run go/fatorial/main.go
+Tempo de execução: 0:00.07
+Memória Usada: 43392
+Uso da CPU: 255%
+
+4:
+Programa: go run go/fatorial/main.go
+Tempo de execução: 0:00.08
+Memória Usada: 43648
+Uso da CPU: 252%
+
+5:
+Programa: go run go/fatorial/main.go
+Tempo de execução: 0:00.08
+Memória Usada: 43264
+Uso da CPU: 247%
+
+6:
+Programa: go run go/fatorial/main.go
+Tempo de execução: 0:00.08
+Memória Usada: 43392
+Uso da CPU: 239%
+
+7:
+Programa: go run go/fatorial/main.go
+Tempo de execução: 0:00.07
+Memória Usada: 43392
+Uso da CPU: 257%
+
+8:
+Programa: go run go/fatorial/main.go
+Tempo de execução: 0:00.08
+Memória Usada: 43520
+Uso da CPU: 243%
+
+9:
+Programa: go run go/fatorial/main.go
+Tempo de execução: 0:00.08
+Memória Usada: 43264
+Uso da CPU: 242%
+
+10:
+Programa: go run go/fatorial/main.go
+Tempo de execução: 0:00.08
+Memória Usada: 43392
+Uso da CPU: 247%
+
+Médias:
+Tempo de Execução Médio: 0.082 segundos (82 milissegundos)
+Memória Ram Média Usada: 43414.4 kilobytes (aproximadamente 42.41 megabytes)
+Uso de CPU Médio: 242.3%

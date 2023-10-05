@@ -1,0 +1,65 @@
+1:
+Programa: java -cp . java/fatorial/src/main/java/arapiraca/ufal/gti/Main.java
+Tempo de execução: 0:00.45
+Memória Usada: 83152
+Uso da CPU: 216%
+
+2:
+Programa: java -cp . java/fatorial/src/main/java/arapiraca/ufal/gti/Main.java
+Tempo de execução: 0:00.52
+Memória Usada: 83852
+Uso da CPU: 206%
+
+3:
+Programa: java -cp . java/fatorial/src/main/java/arapiraca/ufal/gti/Main.java
+Tempo de execução: 0:00.49
+Memória Usada: 85148
+Uso da CPU: 208%
+
+4:
+Programa: java -cp . java/fatorial/src/main/java/arapiraca/ufal/gti/Main.java
+Tempo de execução: 0:00.46
+Memória Usada: 84164
+Uso da CPU: 217%
+
+5:
+Programa: java -cp . java/fatorial/src/main/java/arapiraca/ufal/gti/Main.java
+Tempo de execução: 0:00.48
+Memória Usada: 84152
+Uso da CPU: 208%
+
+6:
+Programa: java -cp . java/fatorial/src/main/java/arapiraca/ufal/gti/Main.java
+Tempo de execução: 0:00.46
+Memória Usada: 84628
+Uso da CPU: 211%
+
+7:
+Programa: java -cp . java/fatorial/src/main/java/arapiraca/ufal/gti/Main.java
+Tempo de execução: 0:00.49
+Memória Usada: 85080
+Uso da CPU: 204%
+
+8:
+Programa: java -cp . java/fatorial/src/main/java/arapiraca/ufal/gti/Main.java
+Tempo de execução: 0:00.46
+Memória Usada: 84184
+Uso da CPU: 211%
+
+9:
+Programa: java -cp . java/fatorial/src/main/java/arapiraca/ufal/gti/Main.java
+Tempo de execução: 0:00.46
+Memória Usada: 83332
+Uso da CPU: 209%
+
+10:
+Programa: java -cp . java/fatorial/src/main/java/arapiraca/ufal/gti/Main.java
+Tempo de execução: 0:00.50
+Memória Usada: 82732
+Uso da CPU: 204%
+
+IO-Bound médias:
+
+Tempo de Execução Médio: 0.474 segundos (474 milissegundos)
+Memória Ram Média Usada: 84147.2 kilobytes
+Uso de CPU Médio: 209.3%

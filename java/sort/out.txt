@@ -1,0 +1,65 @@
+1:
+Programa: java -cp ./java/sort/src/main/java/arapiraca/ufal/gti/Main.java ./java/sort/src/main/java/arapiraca/ufal/gti/Main.java
+Tempo de execução: 0:00.49
+Memória Usada: 96544
+Uso da CPU: 240%
+
+2:
+Programa: java -cp ./java/sort/src/main/java/arapiraca/ufal/gti/Main.java ./java/sort/src/main/java/arapiraca/ufal/gti/Main.java
+Tempo de execução: 0:00.50
+Memória Usada: 97204
+Uso da CPU: 244%
+
+3:
+Programa: java -cp ./java/sort/src/main/java/arapiraca/ufal/gti/Main.java ./java/sort/src/main/java/arapiraca/ufal/gti/Main.java
+Tempo de execução: 0:00.52
+Memória Usada: 97204
+Uso da CPU: 229%
+
+4:
+Programa: java -cp ./java/sort/src/main/java/arapiraca/ufal/gti/Main.java ./java/sort/src/main/java/arapiraca/ufal/gti/Main.java
+Tempo de execução: 0:00.49
+Memória Usada: 95564
+Uso da CPU: 216%
+
+5:
+Programa: java -cp ./java/sort/src/main/java/arapiraca/ufal/gti/Main.java ./java/sort/src/main/java/arapiraca/ufal/gti/Main.java
+Tempo de execução: 0:00.50
+Memória Usada: 95360
+Uso da CPU: 226%
+
+6:
+Programa: java -cp ./java/sort/src/main/java/arapiraca/ufal/gti/Main.java ./java/sort/src/main/java/arapiraca/ufal/gti/Main.java
+Tempo de execução: 0:00.49
+Memória Usada: 96944
+Uso da CPU: 231%
+
+7:
+Programa: java -cp ./java/sort/src/main/java/arapiraca/ufal/gti/Main.java ./java/sort/src/main/java/arapiraca/ufal/gti/Main.java
+Tempo de execução: 0:00.52
+Memória Usada: 96760
+Uso da CPU: 229%
+
+8:
+Programa: java -cp ./java/sort/src/main/java/arapiraca/ufal/gti/Main.java ./java/sort/src/main/java/arapiraca/ufal/gti/Main.java
+Tempo de execução: 0:00.48
+Memória Usada: 96892
+Uso da CPU: 233%
+
+9:
+Programa: java -cp ./java/sort/src/main/java/arapiraca/ufal/gti/Main.java ./java/sort/src/main/java/arapiraca/ufal/gti/Main.java
+Tempo de execução: 0:00.48
+Memória Usada: 96352
+Uso da CPU: 229%
+
+10:
+Programa: java -cp ./java/sort/src/main/java/arapiraca/ufal/gti/Main.java ./java/sort/src/main/java/arapiraca/ufal/gti/Main.java
+Tempo de execução: 0:00.50
+Memória Usada: 96604
+Uso da CPU: 221%
+
+
+Médias:
+Tempo de Execução Médio: 0.495 segundos (495 milissegundos)
+Memória Ram Média Usada: 96540.8 kilobytes (aproximadamente 94.28 megabytes)
+Uso de CPU Médio: 231.7%

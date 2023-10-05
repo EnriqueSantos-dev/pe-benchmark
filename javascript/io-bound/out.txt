@@ -1,0 +1,65 @@
+1:
+Programa: node javascript/io-bound/main.js
+Tempo de execução: 0:01.90
+Memória Usada: 65064
+Uso da CPU: 177%
+
+2:
+Programa: node javascript/io-bound/main.js
+Tempo de execução: 0:01.93
+Memória Usada: 65024
+Uso da CPU: 175%
+
+3:
+Programa: node javascript/io-bound/main.js
+Tempo de execução: 0:01.94
+Memória Usada: 64916
+Uso da CPU: 174%
+
+4:
+Programa: node javascript/io-bound/main.js
+Tempo de execução: 0:02.00
+Memória Usada: 65100
+Uso da CPU: 176%
+
+5:
+Programa: node javascript/io-bound/main.js
+Tempo de execução: 0:01.94
+Memória Usada: 65112
+Uso da CPU: 172%
+
+6:
+Programa: node javascript/io-bound/main.js
+Tempo de execução: 0:01.98
+Memória Usada: 65300
+Uso da CPU: 175%
+
+7:
+Programa: node javascript/io-bound/main.js
+Tempo de execução: 0:01.94
+Memória Usada: 65456
+Uso da CPU: 176%
+
+8:
+Programa: node javascript/io-bound/main.js
+Tempo de execução: 0:01.93
+Memória Usada: 64440
+Uso da CPU: 171%
+
+9:
+Programa: node javascript/io-bound/main.js
+Tempo de execução: 0:01.99
+Memória Usada: 64944
+Uso da CPU: 175%
+
+10:
+Programa: node javascript/io-bound/main.js
+Tempo de execução: 0:01.97
+Memória Usada: 65340
+Uso da CPU: 174%
+
+
+IO-Bound médias:
+Tempo de Execução Médio: 1.955 segundos (1955 milissegundos)
+Memória Ram Média Usada: 65165.2 kilobytes
+Uso de CPU Médio: 175.0%

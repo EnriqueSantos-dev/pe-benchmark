@@ -1,0 +1,65 @@
+1:
+Programa: node javascript/sort/main.js
+Tempo de execução: 0:00.03
+Memória Usada: 43776
+Uso da CPU: 105%
+
+2:
+Programa: node javascript/sort/main.js
+Tempo de execução: 0:00.03
+Memória Usada: 43776
+Uso da CPU: 105%
+
+3:
+Programa: node javascript/sort/main.js
+Tempo de execução: 0:00.03
+Memória Usada: 43776
+Uso da CPU: 102%
+
+4:
+Programa: node javascript/sort/main.js
+Tempo de execução: 0:00.03
+Memória Usada: 43776
+Uso da CPU: 105%
+
+5:
+Programa: node javascript/sort/main.js
+Tempo de execução: 0:00.03
+Memória Usada: 43776
+Uso da CPU: 105%
+
+6:
+Programa: node javascript/sort/main.js
+Tempo de execução: 0:00.03
+Memória Usada: 43776
+Uso da CPU: 102%
+
+7:
+Programa: node javascript/sort/main.js
+Tempo de execução: 0:00.03
+Memória Usada: 43520
+Uso da CPU: 102%
+
+8:
+Programa: node javascript/sort/main.js
+Tempo de execução: 0:00.03
+Memória Usada: 43776
+Uso da CPU: 108%
+
+9:
+Programa: node javascript/sort/main.js
+Tempo de execução: 0:00.03
+Memória Usada: 43776
+Uso da CPU: 102%
+
+10:
+Programa: node javascript/sort/main.js
+Tempo de execução: 0:00.07
+Memória Usada: 43776
+Uso da CPU: 54%
+
+
+Médias:
+Tempo de Execução Médio: 0.04 segundos (ou 40 milissegundos)
+Memória Ram Média Usada: 43728 bytes (aproximadamente 42.69 kilobytes)
+Uso de CPU Médio: 95.5%

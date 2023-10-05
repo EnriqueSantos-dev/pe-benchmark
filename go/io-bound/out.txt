@@ -1,0 +1,68 @@
+
+1:
+Programa: go run go/io-bound/main.go
+Tempo de execução: 0:01.58
+Memória Usada: 45440
+Uso da CPU: 36%
+
+2:
+Programa: go run go/io-bound/main.go
+Tempo de execução: 0:01.51
+Memória Usada: 45312
+Uso da CPU: 40%
+
+3:
+Programa: go run go/io-bound/main.go
+Tempo de execução: 0:01.54
+Memória Usada: 45056
+Uso da CPU: 42%
+
+4:
+Programa: go run go/io-bound/main.go
+Tempo de execução: 0:01.61
+Memória Usada: 44672
+Uso da CPU: 37%
+
+5:
+Programa: go run go/io-bound/main.go
+Tempo de execução: 0:01.55
+Memória Usada: 44928
+Uso da CPU: 42%
+
+6:
+Programa: go run go/io-bound/main.go
+Tempo de execução: 0:01.52
+Memória Usada: 45056
+Uso da CPU: 40%
+
+7:
+Programa: go run go/io-bound/main.go
+Tempo de execução: 0:01.56
+Memória Usada: 45312
+Uso da CPU: 39%
+
+8:
+Programa: go run go/io-bound/main.go
+Tempo de execução: 0:01.51
+Memória Usada: 44928
+Uso da CPU: 39%
+
+9:
+Programa: go run go/io-bound/main.go
+Tempo de execução: 0:01.58
+Memória Usada: 44928
+Uso da CPU: 37%
+
+10:
+Programa: go run go/io-bound/main.go
+Tempo de execução: 0:01.53
+Memória Usada: 43904
+Uso da CPU: 38%
+
+
+IO-Bound:
+Média
+
+Tempo de Execução Médio: 1.54 segundos (1540 milissegundos)
+Memória Ram Média Usada: 44735.2 kilobytes
+Uso de CPU Médio: 38.2%

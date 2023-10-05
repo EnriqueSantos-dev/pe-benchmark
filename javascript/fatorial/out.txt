@@ -1,0 +1,65 @@
+1:
+Programa: node javascript/fatorial/main.js
+Tempo de execução: 0:00.04
+Memória Usada: 43392
+Uso da CPU: 106%
+
+2:
+Programa: node javascript/fatorial/main.js
+Tempo de execução: 0:00.04
+Memória Usada: 43392
+Uso da CPU: 105%
+
+3:
+Programa: node javascript/fatorial/main.js
+Tempo de execução: 0:00.04
+Memória Usada: 43392
+Uso da CPU: 104%
+
+4:
+Programa: node javascript/fatorial/main.js
+Tempo de execução: 0:00.04
+Memória Usada: 43392
+Uso da CPU: 107%
+
+5:
+Programa: node javascript/fatorial/main.js
+Tempo de execução: 0:00.04
+Memória Usada: 43392
+Uso da CPU: 107%
+
+6:
+Programa: node javascript/fatorial/main.js
+Tempo de execução: 0:00.04
+Memória Usada: 43392
+Uso da CPU: 104%
+
+7:
+Programa: node javascript/fatorial/main.js
+Tempo de execução: 0:00.04
+Memória Usada: 43392
+Uso da CPU: 104%
+
+8:
+Programa: node javascript/fatorial/main.js
+Tempo de execução: 0:00.04
+Memória Usada: 43392
+Uso da CPU: 104%
+
+9:
+Programa: node javascript/fatorial/main.js
+Tempo de execução: 0:00.04
+Memória Usada: 43392
+Uso da CPU: 102%
+
+10:
+Programa: node javascript/fatorial/main.js
+Tempo de execução: 0:00.04
+Memória Usada: 43392
+Uso da CPU: 106%
+
+Médias:
+
+Tempo de Execução Médio: 0.04 segundos (ou 40 milissegundos)
+Memória Ram Média Usada: 43,392 bytes (aproximadamente 42.33 kilobytes)
+Uso de CPU Médio: 104.5%

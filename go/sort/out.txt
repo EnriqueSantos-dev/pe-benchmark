@@ -1,0 +1,65 @@
+1:
+Programa: go run go/sort/main.go
+Tempo de execução: 0:00.07
+Memória Usada: 43520
+Uso da CPU: 258%
+
+2:
+Programa: go run go/sort/main.go
+Tempo de execução: 0:00.08
+Memória Usada: 43648
+Uso da CPU: 243%
+
+3:
+Programa: go run go/sort/main.go
+Tempo de execução: 0:00.08
+Memória Usada: 43392
+Uso da CPU: 246%
+
+4:
+Programa: go run go/sort/main.go
+Tempo de execução: 0:00.08
+Memória Usada: 43392
+Uso da CPU: 243%
+
+5:
+Programa: go run go/sort/main.go
+Tempo de execução: 0:00.08
+Memória Usada: 43392
+Uso da CPU: 243%
+
+6:
+Programa: go run go/sort/main.go
+Tempo de execução: 0:00.08
+Memória Usada: 43520
+Uso da CPU: 245%
+
+7:
+Programa: go run go/sort/main.go
+Tempo de execução: 0:00.08
+Memória Usada: 43264
+Uso da CPU: 247%
+
+8:
+Programa: go run go/sort/main.go
+Tempo de execução: 0:00.07
+Memória Usada: 43648
+Uso da CPU: 257%
+
+9:
+Programa: go run go/sort/main.go
+Tempo de execução: 0:00.07
+Memória Usada: 43264
+Uso da CPU: 250%
+
+10:
+Programa: go run go/sort/main.go
+Tempo de execução: 0:00.07
+Memória Usada: 43264
+Uso da CPU: 247%
+
+
+SORT médias:
+Tempo de Execução Médio: 0.075 segundos (75 milissegundos)
+Memória Ram Média Usada: 43452.8 kilobytes (aproximadamente 42.44 megabytes)
+Uso de CPU Médio: 248.1%
